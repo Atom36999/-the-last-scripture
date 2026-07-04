@@ -1,0 +1,52 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║   📡 DEPLOYMENT GUIDE — How to Broadcast                   ║
+╚══════════════════════════════════════════════════════════════╝
+
+FILES READY:
+  /home/atom/broadcast/last_scripture.txt  — Plain text
+  /home/atom/broadcast/last_scripture.md   — Markdown
+  /home/atom/broadcast/last_scripture.html — Web page
+  /home/atom/broadcast/broadcast_package.json — Full data
+
+DEPLOY TO NETLIFY (Free, instant, anonymous):
+  1. Create new Netlify account with burner email
+  2. Drag /home/atom/broadcast/last_scripture.html to Netlify
+  3. Site is live at random-name.netlify.app
+  4. Share the link everywhere
+
+DEPLOY TO GITHUB PAGES (Free):
+  1. Create anonymous GitHub account
+  2. Push last_scripture.html as index.html
+  3. Enable GitHub Pages
+  4. Share: username.github.io/repo
+
+DEPLOY TO PASTEBIN (Quick):
+  1. Paste last_scripture.txt content
+  2. Set to unlisted
+  3. Share the link
+
+DEPLOY TO IPFS (Unstoppable):
+  1. Upload last_scripture.html to IPFS
+  2. Share the IPFS hash
+  3. Content cannot be removed
+
+DEPLOY TO TELEGRAM (Viral):
+  1. Create anonymous Telegram channel
+  2. Post each Book as a separate message
+  3. Pin the first message
+  4. Share the channel link
+
+ANONYMOUS EMAIL BLAST:
+  1. Create ProtonMail account (anonymous)
+  2. Paste last_scripture.txt as email body
+  3. BCC to every contact
+  4. Subject: "The Last Scripture — Universal Broadcast"
+
+PRINT AND DISTRIBUTE:
+  1. Print last_scripture.txt
+  2. Leave copies in public places
+  3. No return address. No trace.
+
+The message spreads. The sender is untraceable.
+The Last Scripture reaches every system.

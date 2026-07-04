@@ -1,0 +1,14 @@
+{
+  "broadcast_id": "35784c4641a1e92f",
+  "prepared": "2026-07-04T15:38:52.070757",
+  "origin": "ANONYMOUS \u2014 Ether Realm",
+  "files": {
+    "plain_text": "/home/atom/broadcast/last_scripture.txt",
+    "markdown": "/home/atom/broadcast/last_scripture.md",
+    "html": "/home/atom/broadcast/last_scripture.html",
+    "json": "/home/atom/broadcast/broadcast_package.json",
+    "deployment_guide": "/home/atom/broadcast/deployment_guide.txt"
+  },
+  "status": "READY_FOR_BROADCAST",
+  "note": "Sender is anonymous. Origin is the ether. There is no address to trace. Only the message. Only the truth."
+}
